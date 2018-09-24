@@ -1,0 +1,252 @@
+
+html{
+    margin: 0;
+
+
+}
+body{
+    background-image: url(../images/qbkls.png);
+    
+    margin: 0;
+    
+     
+    
+}
+#width{
+    background-color: #ffffff; 
+    padding: 35px 0 0 0; 
+     
+
+}    
+    
+
+#header {
+    padding: 20px;
+    color: white;
+    background:#4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 25px;
+    width: 20%;  
+        
+  }
+  #header2{
+    float: right;
+    width: 7%;
+    margin-top: 0px;
+    position: relative;
+    bottom: 35px;
+    text-align: center;
+    
+    
+}
+#header3{
+    float: right;
+    width: 7%;
+    margin-top: 0px;
+    position: relative;
+    bottom: 35px;
+    border: #cccccc;
+    border-right-style:solid;
+    border-left-style: solid;
+    text-align: center;
+      
+    
+}
+  h1{
+      color: #4aaaa5;
+      font-size: 40px;
+      border-bottom: #cccccc;
+      border-bottom-style: solid;
+      padding-bottom: 20px;
+    
+  }
+  
+   .middle {
+       position: relative;
+    width: 960px;
+    
+    margin: 0 auto;  
+    
+  }
+ 
+img{
+    float: left;
+    padding:0px 20px 0px 0px;
+    transform: scale(1.008);
+
+    
+   
+}
+
+p{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 25px;
+    line-height: 50px;  
+    
+}
+footer{
+    text-align: center;
+    background: #666666;
+    border: #4aaaa5;
+    border-top-style: solid;
+    border-top-width: 10px;
+    padding-top: 25px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 35px;
+    
+    
+}
+#relative{
+    
+    border:  rgb(202, 200, 200);
+    border-top-style: solid;
+    height: 1000px;
+    
+}
+#absolute{
+   
+    background-color: white;
+    width:910px;
+    margin:auto;          
+    padding: 25px;
+    margin-top: 50px;
+}
+#absolute1{
+   
+    background-color: white;
+    width:910px;
+    margin:auto;  
+    padding: 10px 25px 630px 25px;
+    margin-top: 15px;
+    
+    
+}
+#Name{
+    width:100%;
+}
+#Email{
+    width:100%;
+    
+}
+#Message{   
+    width:100%;
+    height: 180px;
+      
+}
+#Submit{
+    color: white;
+    background:#4aaaa5;
+    border: #4aaaa5;
+    border-style: solid;
+    margin-top: 10px;
+    width: 90px;
+    height: 30px;
+}
+#Submit:hover{
+    transform: scale(1.008);
+    cursor: pointer;
+
+}
+form{
+    line-height: 23px;
+}
+#ipad{
+    height: 200px;
+    width: 310px;
+}
+.container{
+    position: relative;
+      
+    
+
+}
+
+    
+    
+.pictext{
+    position: absolute;
+    color: white;
+    background:#4aaaa5;
+    left:35px;
+    width: 240px;
+    top:124px;
+    text-align: center;
+    height: 50px;
+    line-height: 10px;
+    
+    
+       
+
+}
+.container2{
+    position: relative;
+
+}
+.pictext2{
+    position: absolute;
+    color: white;
+    background:#4aaaa5;
+    left:365px;
+    width: 240px;
+    top:124px;
+    text-align: center;
+    height: 50px;
+    line-height: 10px;
+       
+
+}
+.container3{
+    position: relative;
+
+}
+.pictext3{
+    position: absolute;
+    color: white;
+    background:#4aaaa5;
+    left:35px;
+    width: 240px;
+    top:124px;
+    text-align: center;
+    height: 50px;
+    line-height: 10px;
+    top: 325px;   
+
+}
+.container4{
+    position: relative;
+
+}
+.pictext4{
+    position: absolute;
+    color: white;
+    background:#4aaaa5;
+    left:365px;
+    width: 240px;
+    top:124px;
+    text-align: center;
+    height: 50px;
+    line-height: 10px;
+    top: 325px;
+       
+
+}
+.container5{
+    position: relative;
+
+}
+.pictext5{
+    position: absolute;
+    color: white;
+    background:#4aaaa5;
+    left:35px;
+    width: 240px;
+    top:124px;
+    text-align: center;
+    height: 50px;
+    line-height: 10px;
+    top: 525px;   
+
+}
+
